@@ -365,5 +365,6 @@ def main():
     llist3 = partition(llist3, 2)
     assert str(llist3) == "[1, 5, 4, 2]"
     
-if __name__ == '__main__':
-    main()
+    print("Linked List Functions All Passed!")
+    
+main()
