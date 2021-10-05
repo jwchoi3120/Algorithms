@@ -1,6 +1,5 @@
-Name: Tom Choi
+Heaps
 
-Feedback: Overall it was very straight forward except hidden ones were pretty hard to figure out
+Explanation : Implemented a fixed size min heap. This means, in the constructor for the Heap class, there will be a capacity value entered and I cannot exceed the number of elements at that capacity level.
 
-Resources: Used lots of functions from Dr.Onsay's heap program. Such as, parent, left, right, has left, has right,
-percolate up, percolate down, push, pop
+Application Problem : With most_x_common function, given a list of elements, I returned the X most commonly occurring elements.
