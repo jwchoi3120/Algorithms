@@ -14,25 +14,25 @@
 ## Links
 
 **Linked List**
-[Go to file](https://github.com/jwchoi3120/Data-Structures/tree/main/Linked_List)
+[Go to Folder](https://github.com/jwchoi3120/Data-Structures/tree/main/Linked_List)
 
 **Recursion**
-[Go to file](https://github.com/jwchoi3120/Data-Structures/tree/main/Recursion)
+[Go to Folder](https://github.com/jwchoi3120/Data-Structures/tree/main/Recursion)
 
 **Hybrid Sorting**
-[Go to file](https://github.com/jwchoi3120/Data-Structures/tree/main/Hybrid_Sort)
+[Go to Folder](https://github.com/jwchoi3120/Data-Structures/tree/main/Hybrid_Sort)
 
 **Queue**
-[Go to file](https://github.com/jwchoi3120/Data-Structures/tree/main/Circular_Queue)
+[Go to Folder](https://github.com/jwchoi3120/Data-Structures/tree/main/Circular_Queue)
 
 **AVL Tree**
-[Go to file](https://github.com/jwchoi3120/Data-Structures/tree/main/AVL_Trees)
+[Go to Folder](https://github.com/jwchoi3120/Data-Structures/tree/main/AVL_Trees)
 
 **Heap**
-[Go to file](https://github.com/jwchoi3120/Data-Structures/tree/main/Heaps)
+[Go to Folder](https://github.com/jwchoi3120/Data-Structures/tree/main/Heaps)
 
 **Hash Table**
-[Go to file](https://github.com/jwchoi3120/Data-Structures/tree/main/Hash_Table)
+[Go to Folder](https://github.com/jwchoi3120/Data-Structures/tree/main/Hash_Table)
 
 **Graph**
-[Go to file](https://github.com/jwchoi3120/Data-Structures/tree/main/Graphs)
+[Go to Folder](https://github.com/jwchoi3120/Data-Structures/tree/main/Graphs)
