@@ -11,7 +11,7 @@ def main():
     6. all
     7. test application 1
     8. test application 2
-    9. test application 3
+    9. test application BrokenPipeError
     """
 
     #1 initionalization
